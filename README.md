@@ -6,8 +6,8 @@ Laboratorium: [dr hab. prof. Paweł Żyliński](https://inf.ug.edu.pl/~zylinski/
 
 
 1. [Projekt 1](Projekt1) - [treść zadań:](ALL_02.pdf)  
-   [Projekt 1a](Projekt1/Projekt1_a.c)  
-   [Projekt 1b](Projekt1/Projekt1_b.c)
+   [Projekt 1a](Projekt1/Projekt1a.c)  
+   [Projekt 1b](Projekt1/Projekt1b.c)
 
 2. [Projekt 2](Projekt2) - [treść zadań:](ALL_04.pdf)  
    [Projekt 2a](Projekt2/Projekt2a.c)  
